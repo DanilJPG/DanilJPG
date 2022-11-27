@@ -5,3 +5,4 @@
   
  ***
  ## Testnet
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <img src="https://empower.explorers.guru/chains/empower.png" width="100" height="110" alt="EmpowerChain">
