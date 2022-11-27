@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## Mainnet 
-<img src="https://github.com/bze-alphateam/bzedge/blob/bzedge/doc/imgs/bzedge-logo.png" width="10" height="11" alt="альтернативный текст">
+<img src="https://github.com/bze-alphateam/bzedge/blob/bzedge/doc/imgs/bzedge-logo.png" width="100" height="110" alt="альтернативный текст">
