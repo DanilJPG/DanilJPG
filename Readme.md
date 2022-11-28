@@ -5,7 +5,7 @@
   
  ***
  ## Testnet
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <margin-right:12px img src="https://empower.explorers.guru/chains/empower.png" width="100" height="100" alt="EmpowerChain">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <img src="https://empower.explorers.guru/chains/empower.png" width="100" height="100" alt="EmpowerChain">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nibiru%20Chain"> <img src="https://nibiru.explorers.guru/chains/nibiru.png" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://dws.explorers.guru/chains/dws.png" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Aleo/Readme.md"> <img src="https://api.nodes.guru/wp-content/uploads/2021/04/aleo.jpg" width="100" height="100" alt="Aleo">
