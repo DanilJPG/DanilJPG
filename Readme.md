@@ -9,4 +9,4 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nibiru%20Chain"> <img src="https://nibiru.explorers.guru/chains/nibiru.png" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://dws.explorers.guru/chains/dws.png" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Aleo/Readme.md"> <img src="https://api.nodes.guru/wp-content/uploads/2021/04/aleo.jpg" width="100" height="100" alt="Aleo">
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" border-radius: 10px alt="Aleo">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="Aleo">
