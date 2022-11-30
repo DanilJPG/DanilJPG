@@ -10,7 +10,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nibiru%20Chain"> <img src="https://nibiru.explorers.guru/chains/nibiru.png" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://dws.explorers.guru/chains/dws.png" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Aleo/Readme.md"> <img src="https://api.nodes.guru/wp-content/uploads/2021/04/aleo.jpg" width="100" height="100" alt="Aleo">
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="Aleo">
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="Aleo">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Celestia"> <img src="https://api.nodes.guru/wp-content/uploads/2022/02/zZp1s7c3_400x400.jpg" width="100" height="100" alt="Aleo">
-<a href="[https://github.com/DanilJPG/nodes_testnets/tree/main/Celestia](https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md)"> <img src="https://pbs.twimg.com/profile_images/1592569073996599297/5BLclbqd_400x400.jpg" width="100" height="100" alt="Aleo">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="ZIESHA">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="HAQQ">
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Celestia"> <img src="https://api.nodes.guru/wp-content/uploads/2022/02/zZp1s7c3_400x400.jpg" width="100" height="100" alt="Celestia">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1592569073996599297/5BLclbqd_400x400.jpg" width="100" height="100" alt="SEI">
