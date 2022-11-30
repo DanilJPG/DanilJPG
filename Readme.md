@@ -14,3 +14,5 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="HAQQ">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Celestia"> <img src="https://api.nodes.guru/wp-content/uploads/2022/02/zZp1s7c3_400x400.jpg" width="100" height="100" alt="Celestia">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1592569073996599297/5BLclbqd_400x400.jpg" width="100" height="100" alt="SEI">
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/OKP4"> <img src="https://pbs.twimg.com/profile_images/1537721318191267840/GK12zUWJ_400x400.jpg" width="100" height="100" alt="OKP4">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Nois/NOIS.md"> <img src="https://pbs.twimg.com/profile_images/1569281955971072000/1TVeJn3w_400x400.jpg" width="100" height="100" alt="OKP4">
