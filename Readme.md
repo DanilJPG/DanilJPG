@@ -13,6 +13,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Aleo/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1485936059707965446/qM-hjbty_400x400.png" width="100" height="100" alt="Aleo">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="ZIESHA">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Celestia"> <img src="https://api.nodes.guru/wp-content/uploads/2022/02/zZp1s7c3_400x400.jpg" width="100" height="100" alt="Celestia">
+
 ### Not Actual
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="HAQQ">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1592569073996599297/5BLclbqd_400x400.jpg" width="100" height="100" alt="SEI">
@@ -21,5 +22,6 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Node-testnet.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/NuLink"> <img src="https://pbs.twimg.com/profile_images/1457806953116323844/q07U_zgl_400x400.jpg" width="100" height="100" alt="NU">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEAR-stakewarsIII.md"> <img src="https://pbs.twimg.com/profile_images/1441304555841597440/YPwdd6cd_400x400.jpg" width="100" height="100" alt="NEAR">
+
 ### Useful tools
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/IBC(hermes%2Cv2%20go).md"> <img src="https://pbs.twimg.com/profile_images/1241251029871521793/vhySd2qZ_400x400.jpg" width="100" height="100" alt="IBC">
