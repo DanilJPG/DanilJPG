@@ -12,7 +12,8 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="ZIESHA">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Celestia"> <img src="https://api.nodes.guru/wp-content/uploads/2022/02/zZp1s7c3_400x400.jpg" width="100" height="100" alt="Celestia">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Manta"> <img src="https://pbs.twimg.com/profile_images/1490773577930584069/uoeUkeKe_400x400.jpg" width="100" height="100" alt="Manta">
-  
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Q%20blockchain"> <img src="https://pbs.twimg.com/profile_images/1564267232343068672/6rIncPSK_400x400.jpg" width="100" height="100" alt="Q">
+ 
 ### Not Actual
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://pbs.twimg.com/profile_images/1493898894836903938/3z3R6woi_400x400.jpg" width="100" height="100" alt="DWS">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="HAQQ">
