@@ -18,7 +18,7 @@
 ### Not Actual
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://pbs.twimg.com/profile_images/1493898894836903938/3z3R6woi_400x400.jpg" width="100" height="100" alt="DWS">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="HAQQ">
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1602753344401035278/0s5WgH2h_400x400.jpg" width="100" height="100" alt="SEI">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg" width="100" height="100" alt="SEI">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/OKP4"> <img src="https://pbs.twimg.com/profile_images/1537721318191267840/GK12zUWJ_400x400.jpg" width="100" height="100" alt="OKP4">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Nois/NOIS.md"> <img src="https://pbs.twimg.com/profile_images/1569281955971072000/1TVeJn3w_400x400.jpg" width="100" height="100" alt="Nois">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Node-testnet.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
