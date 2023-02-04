@@ -15,7 +15,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Q%20blockchain"> <img src="https://pbs.twimg.com/profile_images/1564267232343068672/6rIncPSK_400x400.jpg" width="100" height="100" alt="Q">
  <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nolus"> <img src="https://pbs.twimg.com/profile_images/1574676844451856386/vhK_6xp-_400x400.jpg" width="100" height="100" alt="nolus">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Lava%20Network"> <img src="https://pbs.twimg.com/profile_images/1572932736934940672/YAeBtumE_400x400.jpg" width="100" height="100" alt="lava">
- <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Mars"> <img src="https://pbs.twimg.com/profile_images/1499795631115747339/CI1vcxNO_400x400.jpg" width="100" height="100" alt="mars">
+
   
 ### Not Actual
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://pbs.twimg.com/profile_images/1493898894836903938/3z3R6woi_400x400.jpg" width="100" height="100" alt="DWS">
@@ -26,6 +26,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Node-testnet.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/NuLink"> <img src="https://pbs.twimg.com/profile_images/1457806953116323844/q07U_zgl_400x400.jpg" width="100" height="100" alt="NU">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEAR-stakewarsIII.md"> <img src="https://pbs.twimg.com/profile_images/1441304555841597440/YPwdd6cd_400x400.jpg" width="100" height="100" alt="NEAR">
-
+ <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Mars"> <img src="https://pbs.twimg.com/profile_images/1499795631115747339/CI1vcxNO_400x400.jpg" width="100" height="100" alt="mars">
+  
 ### Useful tools
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/IBC(hermes%2Cv2%20go).md"> <img src="https://pbs.twimg.com/profile_images/1241251029871521793/vhySd2qZ_400x400.jpg" width="100" height="100" alt="IBC">
