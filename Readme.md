@@ -17,7 +17,8 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Lava%20Network"> <img src="https://pbs.twimg.com/profile_images/1572932736934940672/YAeBtumE_400x400.jpg" width="100" height="100" alt="lava">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Babylon%20Chain"> <img src="https://pbs.twimg.com/profile_images/1568383434095210497/DrKOVQFy_400x400.jpg" width="100" height="100" alt="baby">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Humans.ai"> <img src="https://pbs.twimg.com/profile_images/1569372832269848577/E2MgZxkC_400x400.jpg" width="100" height="100" alt="humans">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Humans.ai"> <img src="https://pbs.twimg.com/profile_images/1569372832269848577/E2MgZxkC_400x400.jpg" width="100" height="100" alt="andromeda">
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Humans.ai"> <img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" width="100" height="100" alt="andromeda">
+ 
 ### Not Actual
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://pbs.twimg.com/profile_images/1493898894836903938/3z3R6woi_400x400.jpg" width="100" height="100" alt="DWS">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/HAQQ/IslamicCoin%20HAQQ.md"> <img src="https://api.nodes.guru/wp-content/uploads/2022/09/ExM0TXjk_400x400.jpg" width="100" height="100" alt="HAQQ">
