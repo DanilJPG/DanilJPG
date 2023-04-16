@@ -3,7 +3,7 @@
 <a href="https://github.com/DanilJPG/mainnet_guides/tree/main/BeeZee"> <img src="https://github.com/bze-alphateam/bzedge/blob/bzedge/doc/imgs/bzedge-logo.png" width="100" height="100" alt="BeeZee">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEWRL/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png" width="100" height="100" alt="NEWRL">
 <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1r0wvrml5829jadkcm75pvmu5l42kkayuztxfyh"> <img src="https://pbs.twimg.com/profile_images/1550519235411329024/XC-rLoo0_400x400.jpg" width="100" height="100" alt="LAMBDA"> 
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Node-testnet.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Readme.md.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
  ## Testnet
 ### Actual 
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <img src="https://empower.explorers.guru/chains/empower.png" width="100" height="100" alt="EmpowerChain">
