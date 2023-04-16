@@ -3,7 +3,7 @@
 <a href="https://github.com/DanilJPG/mainnet_guides/tree/main/BeeZee"> <img src="https://github.com/bze-alphateam/bzedge/blob/bzedge/doc/imgs/bzedge-logo.png" width="100" height="100" alt="BeeZee">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEWRL/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png" width="100" height="100" alt="NEWRL">
 <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1r0wvrml5829jadkcm75pvmu5l42kkayuztxfyh"> <img src="https://pbs.twimg.com/profile_images/1550519235411329024/XC-rLoo0_400x400.jpg" width="100" height="100" alt="LAMBDA"> 
-
+<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Node-testnet.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
  ## Testnet
 ### Actual 
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <img src="https://empower.explorers.guru/chains/empower.png" width="100" height="100" alt="EmpowerChain">
@@ -25,7 +25,6 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg" width="100" height="100" alt="SEI">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/OKP4"> <img src="https://pbs.twimg.com/profile_images/1537721318191267840/GK12zUWJ_400x400.jpg" width="100" height="100" alt="OKP4">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Nois/NOIS.md"> <img src="" width="100" height="100" alt="Nois">
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Stride/Node-testnet.md"> <img src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png" width="100" height="100" alt="Stride">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/NuLink"> <img src="https://pbs.twimg.com/profile_images/1457806953116323844/q07U_zgl_400x400.jpg" width="100" height="100" alt="NU">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEAR-stakewarsIII.md"> <img src="https://pbs.twimg.com/profile_images/1441304555841597440/YPwdd6cd_400x400.jpg" width="100" height="100" alt="NEAR">
 
