@@ -16,7 +16,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Q%20blockchain"> <img src="https://pbs.twimg.com/profile_images/1628366663073640448/pj27t3hj_400x400.png" width="100" height="100" alt="Q">
  <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nolus"> <img src="https://pbs.twimg.com/profile_images/1574676844451856386/vhK_6xp-_400x400.jpg" width="100" height="100" alt="nolus">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Lava%20Network"> <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" width="100" height="100" alt="lava">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Babylon%20Chain"> <img src="https://pbs.twimg.com/profile_images/1638456012041510912/8PbsD_2B_400x400.jpg" width="100" height="100" alt="baby">
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Babylon%20Chain"> <img src="https://pbs.twimg.com/profile_images/1654455433556271105/SnqUcBFB_400x400.jpg" width="100" height="100" alt="baby">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Humans.ai"> <img src="https://pbs.twimg.com/profile_images/1569372832269848577/E2MgZxkC_400x400.jpg" width="100" height="100" alt="humans">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Andromeda"> <img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" width="100" height="100" alt="andromeda">
  
