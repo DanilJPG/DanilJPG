@@ -19,6 +19,8 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Babylon%20Chain"> <img src="https://pbs.twimg.com/profile_images/1654455433556271105/SnqUcBFB_400x400.jpg" width="100" height="100" alt="baby">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Humans.ai"> <img src="https://pbs.twimg.com/profile_images/1569372832269848577/E2MgZxkC_400x400.jpg" width="100" height="100" alt="humans">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Andromeda"> <img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" width="100" height="100" alt="andromeda">
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Dymension"> <img src="https://pbs.twimg.com/profile_images/1594732521962541058/NGdT4O2k_400x400.jpg" width="100" height="100" alt="dymension">
+ 
  
 ### Not Actual
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://pbs.twimg.com/profile_images/1656084833662291968/nHHrVSQn_400x400.png" width="100" height="100" alt="DWS">
