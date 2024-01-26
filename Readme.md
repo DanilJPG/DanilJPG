@@ -6,7 +6,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Stride"> <img src="https://pbs.twimg.com/profile_images/1678377000468205568/UY9UaLF0_400x400.png" width="100" height="100" alt="Stride">
  
 ## Testnet
-### Actual 
+
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1517558234424487938/WDRZ0Bzr_400x400.jpg" width="100" height="100" alt="EmpowerChain">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nibiru%20Chain"> <img src="https://sun9-west.userapi.com/sun9-67/s/v1/ig2/Mp7n5fXFXdPi7fJPnTBmC4ap7ev1r6ovFBrNhJEKDsdtBNcBtKS9hvUJCPtiXFEw64-b-kywRqA8DpAo4SAy-QPY.jpg?size=400x400&quality=96&type=album" width="100" height="100" alt="Nibiru">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Aleo/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1696539323590385664/gY9hSgaR_400x400.jpg" width="100" height="100" alt="Aleo">
