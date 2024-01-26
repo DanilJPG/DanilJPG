@@ -25,7 +25,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg" width="100" height="100" alt="SEI">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/OKP4"> <img src="https://pbs.twimg.com/profile_images/1673248413033308160/OcheIcRQ_400x400.jpg" width="100" height="100" alt="OKP4">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Nois/NOIS.md"> <img src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" width="100" height="100" alt="Nois">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/NuLink"> <img src="hhttps://pbs.twimg.com/profile_images/1749066337505185792/eb3-fBQF_400x400.jpg" width="100" height="100" alt="NU">
+<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/NuLink"> <img src="https://pbs.twimg.com/profile_images/1749066337505185792/eb3-fBQF_400x400.jpg" width="100" height="100" alt="NU">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEAR-stakewarsIII.md"> <img src="https://pbs.twimg.com/profile_images/1441304555841597440/YPwdd6cd_400x400.jpg" width="100" height="100" alt="NEAR">
 
   
