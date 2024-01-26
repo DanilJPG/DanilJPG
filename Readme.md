@@ -15,7 +15,6 @@
 ## Testnet
 
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/EmpowerChain/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1517558234424487938/WDRZ0Bzr_400x400.jpg" width="100" height="100" alt="EmpowerChain">
-
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Aleo/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1696539323590385664/gY9hSgaR_400x400.jpg" width="100" height="100" alt="Aleo">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="ZIESHA">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Q%20blockchain"> <img src="https://pbs.twimg.com/profile_images/1628366663073640448/pj27t3hj_400x400.png" width="100" height="100" alt="Q">
