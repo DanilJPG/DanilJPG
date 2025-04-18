@@ -19,14 +19,11 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Ziesha%20Network/Readme.md"> <img src="https://avatars.githubusercontent.com/u/96166029?s=200&v=4" width="100" height="100" alt="ZIESHA">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Q%20blockchain"> <img src="https://pbs.twimg.com/profile_images/1628366663073640448/pj27t3hj_400x400.png" width="100" height="100" alt="Q">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Lava%20Network"> <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" width="100" height="100" alt="lava">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Babylon%20Chain"> <img src="https://pbs.twimg.com/profile_images/1781168613661274112/DVPEQLrM_400x400.jpg" width="100" height="100" alt="baby">
+
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Humans.ai"> <img src="https://pbs.twimg.com/profile_images/1569372832269848577/E2MgZxkC_400x400.jpg" width="100" height="100" alt="humans">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Andromeda"> <img src="https://pbs.twimg.com/profile_images/1532538144817434625/UknhHKpu_400x400.jpg" width="100" height="100" alt="andromeda">
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Dymension"> <img src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg" width="100" height="100" alt="dymension">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/DWS"> <img src="https://pbs.twimg.com/profile_images/1656084833662291968/nHHrVSQn_400x400.png" width="100" height="100" alt="DWS">
+
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/Nois/NOIS.md"> <img src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" width="100" height="100" alt="Nois">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEAR-stakewarsIII.md"> <img src="https://pbs.twimg.com/profile_images/1441304555841597440/YPwdd6cd_400x400.jpg" width="100" height="100" alt="NEAR">
-
-  
-### Useful tools
-<a href="https://github.com/DanilJPG/nodes_testnets/blob/main/IBC(hermes%2Cv2%20go).md"> <img src="https://pbs.twimg.com/profile_images/1241251029871521793/vhySd2qZ_400x400.jpg" width="100" height="100" alt="IBC">
+C">
