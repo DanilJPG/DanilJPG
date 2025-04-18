@@ -4,7 +4,7 @@
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/NEWRL/Readme.md"> <img src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png" width="100" height="100" alt="NEWRL">
 <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1r0wvrml5829jadkcm75pvmu5l42kkayuztxfyh"> <img src="https://pbs.twimg.com/profile_images/1550519235411329024/XC-rLoo0_400x400.jpg" width="100" height="100" alt="LAMBDA"> 
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Stride"> <img src="https://pbs.twimg.com/profile_images/1678377000468205568/UY9UaLF0_400x400.png" width="100" height="100" alt="Stride">
-<a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Manta"> <img src="https://pbs.twimg.com/profile_images/1490773577930584069/uoeUkeKe_400x400.jpg" width="100" height="100" alt="Manta">
+
 <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nibiru%20Chain"> <img src="https://sun9-west.userapi.com/sun9-67/s/v1/ig2/Mp7n5fXFXdPi7fJPnTBmC4ap7ev1r6ovFBrNhJEKDsdtBNcBtKS9hvUJCPtiXFEw64-b-kywRqA8DpAo4SAy-QPY.jpg?size=400x400&quality=96&type=album" width="100" height="100" alt="Nibiru">
  <a href="https://github.com/DanilJPG/nodes_testnets/tree/main/Nolus"> <img src="https://pbs.twimg.com/profile_images/1574676844451856386/vhK_6xp-_400x400.jpg" width="100" height="100" alt="nolus">
 <a href="https://github.com/DanilJPG/nodes_testnets/blob/main/SEI/SEI.md"> <img src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg" width="100" height="100" alt="SEI">
