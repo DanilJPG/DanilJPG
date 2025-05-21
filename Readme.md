@@ -1,4 +1,6 @@
-## Part1
+## Part1. Установка ОС
+1. Проверка версии Ubuntu
+![image](https://github.com/user-attachments/assets/e8327404-e674-44a8-ad17-2c746f1f3f8b)
 
 ## Part2
 
