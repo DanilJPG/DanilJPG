@@ -8,6 +8,7 @@
 ![Команда создания пользователя test добавление его в групппу adm](https://github.com/user-attachments/assets/b9db3076-842c-4bbf-b7eb-0e32487f0dcb)
 
 - Вывод команды проверки пользователя test
+
 ![Вывод команды проверки пользователя test](https://github.com/user-attachments/assets/b45e1f7c-07ac-4d50-abde-31cfb3f4e09c)
 ## Part3. Настройка сети ОС
 1. Установи временную зону, соответствующую твоему текущему местоположению
