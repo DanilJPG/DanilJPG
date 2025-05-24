@@ -4,13 +4,11 @@
 ![Ubuntu 20.04](https://github.com/user-attachments/assets/e8327404-e674-44a8-ad17-2c746f1f3f8b)
 
 ## Part2. Создание пользователя
+- Команда создания пользователя test добавление его в групппу adm
 ![Команда создания пользователя test добавление его в групппу adm](https://github.com/user-attachments/assets/b9db3076-842c-4bbf-b7eb-0e32487f0dcb)
 
-- Команда создания пользователя test добавление его в групппу adm
-
-![Вывод команды проверки пользователя test](https://github.com/user-attachments/assets/b45e1f7c-07ac-4d50-abde-31cfb3f4e09c)
-
 - Вывод команды проверки пользователя test
+![Вывод команды проверки пользователя test](https://github.com/user-attachments/assets/b45e1f7c-07ac-4d50-abde-31cfb3f4e09c)
 ## Part3. Настройка сети ОС
 1. Установи временную зону, соответствующую твоему текущему местоположению
    - `sudo ln -sf /usr/share/zoneinfo/Europe/Moscow /etc/localtime`, `timedatectl`
@@ -31,12 +29,15 @@
   - Для установки постояннх значений настроектребуется:
   - изменить `config` файл, взависимости от системы(в etc/netplan)
     ![image](https://github.com/user-attachments/assets/3af26ed8-afa1-4b49-afcd-a43e875cd4c4)
+    
   - установить необходимые значения:
     ![image](https://github.com/user-attachments/assets/1c528f66-a6ec-4028-bf12-66f9ae39dc42)
+    
   - убедится после перезагрузки в правильности:
     ![image](https://github.com/user-attachments/assets/eaa17773-83fb-424e-b85a-29532c1aa464)
+  
   - пинг удаленных хостов
-    ![image](https://github.com/user-attachments/assets/8d081775-3f35-4bc5-9ed9-517b348fb18d)
+     ![image](https://github.com/user-attachments/assets/8d081775-3f35-4bc5-9ed9-517b348fb18d)
 ## Part4. Обновление ОС
 1. Обновление системных пакетов
    ![image](https://github.com/user-attachments/assets/014e8c96-509e-48fd-b224-1e3e4c0fa1b4)
