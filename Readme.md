@@ -116,6 +116,18 @@
    ![image](https://github.com/user-attachments/assets/e78f0272-b194-43d8-a6ac-d6a6b5462aa3)
 
 ## Part 8. Установка и базовая настройка сервиса SSHD
+1. `sudo apt install openssh-server` - установка openssh
+2. `sudo systemctl enable ssh` - автозагрузка ssh
+3. `sudo nano /etc/ssh/sshd_config` + изменение в конфиг-файле на port 2022
+4. ps –ef | grep sshd
+
+- Скрины с выводом команд
+![image](https://github.com/user-attachments/assets/131d63c1-601f-42ea-9d5a-48231396ba7f)
+
+![image](https://github.com/user-attachments/assets/57386aa3-50c8-402d-ac2f-22ed7313c66a)
+`-t показывает только tcp соединения` 
+`-a показывает все соединения и порты`
+`-n вывод в цифровом виде, без dns имен`
 
 ## Part9
 
