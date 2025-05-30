@@ -122,9 +122,11 @@
 4. ps –ef | grep sshd
 
 - Скрины с выводом команд
+- 
 ![image](https://github.com/user-attachments/assets/131d63c1-601f-42ea-9d5a-48231396ba7f)
 
 ![image](https://github.com/user-attachments/assets/57386aa3-50c8-402d-ac2f-22ed7313c66a)
+
 `-t показывает только tcp соединения` 
 `-a показывает все соединения и порты, в том числе со статусом ожидания`
 `-n вывод в цифровом виде, без dns имен`
@@ -184,15 +186,47 @@
 ![image](https://github.com/user-attachments/assets/55bdd113-f44c-4851-8603-e5e0ff17a927)
 
 ## Part 12. Использование утилиты du
-1. Проверка дискового пространства с помощью ncdu в /var, /home
+1. Проверка дискового пространства с помощью du в /var, /home
 
-![image](https://github.com/user-attachments/assets/223c175b-6864-4f46-80d1-bda4d452be24)
+![image](https://github.com/user-attachments/assets/2a9fbf01-89b9-4cbf-bdad-c3fa18eda816)
 
-![image](https://github.com/user-attachments/assets/775270fe-ea40-4092-841b-3e0a702fb4fc)
+![image](https://github.com/user-attachments/assets/5c223c03-ebeb-470d-b7d8-cc2c90eaeccf)
+
+![image](https://github.com/user-attachments/assets/c6fd54a1-d486-4e50-8ea6-15aa6e536be1)
+
+![image](https://github.com/user-attachments/assets/749e77e9-3829-4c4d-9d9f-74a202228222)
 
 ## Part 13. Установка и использование утилиты ncdu
+1. Проверка дискового пространства с помощью ncdu в /var, /hom, /var/log
 
+![image](https://github.com/user-attachments/assets/a64500bd-b32c-4046-b612-52dce997c1c4)
+
+![image](https://github.com/user-attachments/assets/2e1c9805-da9f-466f-b41f-15cb65e12dfe)
 
 ## Part 14. Работа с системными журналами
+1. /var/log/dmesg
+
+![image](https://github.com/user-attachments/assets/a64e879c-a476-44f8-88e0-bd321554d81f)
+
+2. /var/log/syslog
+
+![image](https://github.com/user-attachments/assets/6592cf61-de46-42c0-833e-0f65dcbca706)
+
+3. /var/log/auth.log
+
+![image](https://github.com/user-attachments/assets/d1a3619e-8595-427f-8c1d-f4f75b2c165a)
+
+4. Перезагрузка sshd c логами
+
+![image](https://github.com/user-attachments/assets/44d7617f-93e9-42fb-a942-9f25d13b18a2)
 
 ## Part 15. Использование планировщика заданий CRON
+1. Добавление в CRON фнукцию uptime каждые 2 минуты
+
+![image](https://github.com/user-attachments/assets/04b6ca8e-835b-4b4b-b992-706d25c3501b)
+
+2. Проверка в логах
+
+![image](https://github.com/user-attachments/assets/e220535c-8447-4a49-bab1-682f5c364ddd)
+
+3. Удаление всех функций в CRON
