@@ -1,7 +1,7 @@
 ## Part1. Установка ОС
 - Проверка версии Ubuntu
 
-![Ubuntu 20.04](https://github.com/user-attachments/assets/e8327404-e674-44a8-ad17-2c746f1f3f8b)
+[https://github.com/DanilJPG/images/blob/main/Рисунок1.png](https://github.com/DanilJPG/images/blob/main/Рисунок1.png)
 
 ## Part2. Создание пользователя
 - Команда создания пользователя test добавление его в групппу adm
