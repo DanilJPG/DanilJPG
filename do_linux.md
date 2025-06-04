@@ -50,14 +50,17 @@
      ![image](https://github.com/DanilJPG/images/blob/main/Рисунок10.png?raw=true)
 ## Part4. Обновление ОС
 1. Обновление системных пакетов
+
    ![image](https://github.com/DanilJPG/images/blob/main/Рисунок11.png?raw=true)
 
 ## Part 5. Использование команды sudo
 1. Добавление в группу sudo gпользователя test(для выполнения команд как root, предоставление прав su)
-   ![image](https://github.com/DanilJPG/images/blob/main/Рисунок12.png?raw=true)
-2. `sudo hostnamectl set-hostname новое_имя`
 
-3. Проверка cat /etc/hostname
+   ![image](https://github.com/DanilJPG/images/blob/main/Рисунок12.png?raw=true)
+   
+3. `sudo hostnamectl set-hostname новое_имя`
+
+4. Проверка cat /etc/hostname
    
    ![image](https://github.com/DanilJPG/images/blob/main/Рисунок13.png?raw=true)
 
@@ -203,32 +206,24 @@
 ## Part 13. Установка и использование утилиты ncdu
 1. Проверка дискового пространства с помощью ncdu в /var, /hom, /var/log
 
-![image](https://github.com/user-attachments/assets/a64500bd-b32c-4046-b612-52dce997c1c4)
+![image](https://github.com/DanilJPG/images/blob/main/42.png?raw=true)
 
-![image](https://github.com/user-attachments/assets/2e1c9805-da9f-466f-b41f-15cb65e12dfe)
+![image](https://github.com/DanilJPG/images/blob/main/43.png?raw=true)
 
 ## Part 14. Работа с системными журналами
-1. /var/log/dmesg
+1. Отслеживание авторизации в системе в `/var/log/auth.log`
 
-![image](https://github.com/user-attachments/assets/a64e879c-a476-44f8-88e0-bd321554d81f)
+![image](https://github.com/DanilJPG/images/blob/main/44.png?raw=true)
 
-2. /var/log/syslog
+2. Перезагрузка sshd, просмотр логов в `/var/log/syslog`
 
-![image](https://github.com/user-attachments/assets/6592cf61-de46-42c0-833e-0f65dcbca706)
-
-3. /var/log/auth.log
-
-![image](https://github.com/user-attachments/assets/d1a3619e-8595-427f-8c1d-f4f75b2c165a)
-
-4. Перезагрузка sshd c логами
-
-![image](https://github.com/user-attachments/assets/44d7617f-93e9-42fb-a942-9f25d13b18a2)
+![image](https://github.com/DanilJPG/images/blob/main/45.png?raw=true)
 
 ## Part 15. Использование планировщика заданий CRON
 1. Добавление в CRON фнукцию uptime каждые 2 минуты
 
-![image](https://github.com/user-attachments/assets/04b6ca8e-835b-4b4b-b992-706d25c3501b)
+![image](https://github.com/DanilJPG/images/blob/main/46.png?raw=true)
 
 2. Проверка в логах
 
-![image](https://github.com/user-attachments/assets/e220535c-8447-4a49-bab1-682f5c364ddd)
+![image](https://github.com/DanilJPG/images/blob/main/47.png?raw=true)
