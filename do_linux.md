@@ -21,12 +21,16 @@
 - lo - сетевой интерфейс может быть виртуальным, который отвечает за сетевое общение программ операционной системы данной ВМ. lo – сетевой виртуальный интерфейс который используется по умолчанию в Linux. Он используется для отладки сетевых программ и запуска серверных приложений на локальной машине. С этим интерфейсом всегда связан адрес 127.0.0.1 и него есть dns – localhost. Привязка находится по адресу /etc/hosts. Используется самой системой для тестирования сетевых приложений без выхода в реальную сеть. Например, вы запускаете сервер и клиент на одном компьютере, они могут общаться через 127.0.0.1
 
 3. Используя консольную команду, получи ip адрес устройства, на котором ты работаешь, от DHCP-сервера
-- `ip route` используется для проверки маршрутов по передачи данных, `grep default` отображает значение шлюза через который будут оставлены пакеты по умолчанию   
+- `ip route` используется для проверки маршрутов по передачи данных, `grep default` отображает значение шлюза через который будут оставлены пакеты по умолчанию
+
    ![image](https://github.com/DanilJPG/images/blob/main/Рисунок5.png?raw=true)
+
 - DHCP –динамический протокол настройки хоста
 4. Определи и выведи на экран внешний ip-адрес шлюза (ip) и внутренний IP-адрес шлюза, он же ip-адрес по умолчанию (gw)
 - `ip addr show` или `ip a`
+
     ![image](https://github.com/DanilJPG/images/blob/main/Рисунок6.png?raw=true)
+  
 5. Задай статичные (заданные вручную, а не полученные от DHCP-сервера) настройки ip, gw, dns (используй публичный DNS-серверы, например 1.1.1.1 или 8.8.8.8).
 - Для установки постояннх значений настроектребуется:
 - изменить `config` файл, взависимости от системы(в etc/netplan)
@@ -83,37 +87,37 @@
 2. Замена сожержимого файлов, выход без сохранения
 - Joe: `Ctrl+K+Q+n`
    
-   ![image](https://github.com/user-attachments/assets/68df6a16-3ee4-4b70-808d-ac237fdb3500)
+   ![image](https://github.com/DanilJPG/images/blob/main/Рисунок19.png?raw=true)
 
 - nano: `Ctrl+X+n`
 
-   ![image](https://github.com/user-attachments/assets/b609989f-71d0-443c-acbd-3e1dd261919f)
+   ![image](https://github.com/DanilJPG/images/blob/main/Рисунок20.png?raw=true)
 
 - Vim: `:q!`
 
-   ![image](https://github.com/user-attachments/assets/fa3fb833-4cfa-4a86-816b-7d225550b0fa)
+   ![image](https://github.com/DanilJPG/images/blob/main/Рисунок21.png?raw=true)
 
 3. Функции поиска слова и его замена
 - Joe:   `^K+F+ввод поискового слова+B`
          `^K+F+R+старое слово + новое слово+y`
 
-   ![image](https://github.com/user-attachments/assets/73a1db4b-4d56-4b68-a32b-d7007d400e89)
+   ![image](https://github.com/DanilJPG/images/blob/main/Рисунок22.png?raw=true)
 
-   ![image](https://github.com/user-attachments/assets/32adf2fe-9dd2-46c5-b490-eb843bcbaba2)
+   ![image](https://github.com/DanilJPG/images/blob/main/23.png?raw=true)
 
 - nano: `^w+fets(слово для поиска)`
         `^\+fest(old name)+castaaa(new name+enter)+y`
   
-  ![image](https://github.com/user-attachments/assets/26cce4de-b8c1-4484-a0cc-66ac061061ad)
+  ![image](https://github.com/DanilJPG/images/blob/main/24.png?raw=true)
 
-  ![image](https://github.com/user-attachments/assets/5d68c54b-86df-4141-9fd3-81c964fbf26e)
+  ![image](https://github.com/DanilJPG/images/blob/main/25.png?raw=true)
 
   - Vim: `/lot(слово для описка)`
   `:%s/old_name/new_name/`
  
-   ![image](https://github.com/user-attachments/assets/d90929e4-6f8e-4eed-9af0-13609e6a8ea0)
+   ![image](https://github.com/DanilJPG/images/blob/main/26.png?raw=true)
 
-   ![image](https://github.com/user-attachments/assets/e78f0272-b194-43d8-a6ac-d6a6b5462aa3)
+   ![image](https://github.com/DanilJPG/images/blob/main/27.png?raw=true)
 
 ## Part 8. Установка и базовая настройка сервиса SSHD
 1. `sudo apt install openssh-server` - установка openssh
@@ -122,10 +126,10 @@
 4. ps –ef | grep sshd
 
 - Скрины с выводом команд
-- 
-![image](https://github.com/user-attachments/assets/131d63c1-601f-42ea-9d5a-48231396ba7f)
 
-![image](https://github.com/user-attachments/assets/57386aa3-50c8-402d-ac2f-22ed7313c66a)
+![image](https://github.com/DanilJPG/images/blob/main/Рисунок28.png?raw=true)
+
+![image](https://github.com/DanilJPG/images/blob/main/Рисунок29.png?raw=true)
 
 `-t показывает только tcp соединения` 
 `-a показывает все соединения и порты, в том числе со статусом ожидания`
@@ -134,7 +138,7 @@
 ## Part 9. Установка и использование утилит top, htop
 1. Вывод команды `top`
 
-![image](https://github.com/user-attachments/assets/53258824-ae0a-409a-b02e-27b02d74cabe)
+![image](https://github.com/DanilJPG/images/blob/main/30.png?raw=true)
 
   - uptime – 1 час,
   - количество авторизованных пользователей - 1,
@@ -148,24 +152,24 @@
 2. htop
 - отсортированному по PID, PERCENT_CPU, PERCENT_MEM, TIME;
  
-![image](https://github.com/user-attachments/assets/e527ac4c-d13b-4fc9-889f-cdfba88743b2)
+![image](https://github.com/DanilJPG/images/blob/main/31.png?raw=true)
 
 -  отфильтрованному для процесса sshd;
 
-![image](https://github.com/user-attachments/assets/a5a47ef3-9717-4315-9f25-aa716ce7fe0f)
+![image](https://github.com/DanilJPG/images/blob/main/32.png?raw=true)
 
 - с процессом syslog, найденным, используя поиск
 
-![image](https://github.com/user-attachments/assets/d6dfbb38-b863-4bf4-a8d0-83eda3c0b892)
+![image](https://github.com/DanilJPG/images/blob/main/33.png?raw=true)
 
 - с добавленным выводом hostname, clock и uptime
 
-![image](https://github.com/user-attachments/assets/95c612ac-fa3b-4e6f-a0eb-aedf43c87193)
+![image](https://github.com/DanilJPG/images/blob/main/34.png?raw=true)
 
 ## Использование утилиты fdisk
 1. Вывод команды `sudo fdisk -l` с выделенным названием диска, количеством секторов
    
-   ![image](https://github.com/user-attachments/assets/1059d3ba-77da-4bff-9f94-eb6e7410b3f7)
+   ![image](https://github.com/DanilJPG/images/blob/main/35.png?raw=true)
 
 ## Part 11. Использование утилиты df
 1. Использование `df`
@@ -174,7 +178,7 @@
 - размер свободного пространства – 6067728 Кб,
 - процент использования – 46%.
   
-![image](https://github.com/user-attachments/assets/048e7aa3-d0b5-406f-8ca3-9dea1165ab39)
+![image](https://github.com/DanilJPG/images/blob/main/36.png?raw=true)
 
 2. Использование `df -Th`
 - размер раздела – 12Gb,
@@ -183,18 +187,18 @@
 - процент использования - 46%.
 - ext4 файловая система, являющаяся самой последней версией, с более высокой производительсность, журналированием, с быстрым монтированием и проверкой диска
 
-![image](https://github.com/user-attachments/assets/55bdd113-f44c-4851-8603-e5e0ff17a927)
+![image](https://github.com/DanilJPG/images/blob/main/37.png?raw=true)
 
 ## Part 12. Использование утилиты du
-1. Проверка дискового пространства с помощью du в /var, /home
+1. Проверка дискового пространства с помощью du в /var, /home, /var/log
 
-![image](https://github.com/user-attachments/assets/2a9fbf01-89b9-4cbf-bdad-c3fa18eda816)
+![image](https://github.com/DanilJPG/images/blob/main/38.png?raw=true)
 
-![image](https://github.com/user-attachments/assets/5c223c03-ebeb-470d-b7d8-cc2c90eaeccf)
+![image](https://github.com/DanilJPG/images/blob/main/39.png?raw=true)
 
-![image](https://github.com/user-attachments/assets/c6fd54a1-d486-4e50-8ea6-15aa6e536be1)
+![image](https://github.com/DanilJPG/images/blob/main/40.png?raw=true)
 
-![image](https://github.com/user-attachments/assets/749e77e9-3829-4c4d-9d9f-74a202228222)
+![image](https://github.com/DanilJPG/images/blob/main/41.png?raw=true)
 
 ## Part 13. Установка и использование утилиты ncdu
 1. Проверка дискового пространства с помощью ncdu в /var, /hom, /var/log
