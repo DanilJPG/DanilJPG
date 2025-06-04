@@ -6,7 +6,7 @@
 ## Part2. Создание пользователя
 - Команда создания пользователя test добавление его в групппу adm
 
-[![Команда создания пользователя test добавление его в групппу adm](https://github.com/DanilJPG/images/blob/main/Рисунок2.png?raw=true)
+![Команда создания пользователя test добавление его в групппу adm](https://github.com/DanilJPG/images/blob/main/Рисунок2.png?raw=true)
 
 - Вывод команды проверки пользователя test
 
