@@ -228,5 +228,3 @@
 2. Проверка в логах
 
 ![image](https://github.com/user-attachments/assets/e220535c-8447-4a49-bab1-682f5c364ddd)
-
-3. Удаление всех функций в CRON
