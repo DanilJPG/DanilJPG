@@ -1,7 +1,7 @@
 ## Part1. Установка ОС
 - Проверка версии Ubuntu
 
-[https://github.com/DanilJPG/images/blob/main/Рисунок1.png](https://github.com/DanilJPG/images/blob/main/Рисунок1.png)
+![https://github.com/DanilJPG/images/blob/main/Рисунок1.png](https://github.com/DanilJPG/images/blob/main/Рисунок1.png)
 
 ## Part2. Создание пользователя
 - Команда создания пользователя test добавление его в групппу adm
